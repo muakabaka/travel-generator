@@ -21,7 +21,8 @@ Whether you love 🏖️ beaches, ⛰️ mountains, 🎨 art, or 🍜 food adven
 
 Click the button below to launch this notebook interactively:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/muakabaka/travel-generator/blob/main/travel_generator_colab_fixed.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/muakabaka/travel-generator/blob/main/travel_generator.ipynb)
+
 
 ---
 
